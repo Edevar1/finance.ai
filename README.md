@@ -3,7 +3,7 @@
 - HTML5
 - Css3 (Tailwind)
 - Typescript
-
+- Shadcn / ui (Biblioteca)
 
 
 - PostgreQSL (Banco de Dados Relacionais)
