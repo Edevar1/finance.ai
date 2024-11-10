@@ -1,6 +1,9 @@
 * Tecnologias Utilizadas
 
+- HTML5
+- Css3 (Tailwind)
 - Typescript
+
 
 
 - PostgreQSL (Banco de Dados Relacionais)
