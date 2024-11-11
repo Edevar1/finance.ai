@@ -6,6 +6,8 @@
 * Shadcn / ui (Biblioteca)
 * Clerk (Serviço de autentificação)
 (Outro serviçoe NextAuth.js(Biblioteca))
+* Git Hooks 
+(Usando biblioteca husky npm e lint-staged npm)
 
 * PostgreQSL (Banco de Dados Relacionais)
 * Prisma (ORM)
